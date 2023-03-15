@@ -1,0 +1,539 @@
+    /* //-----------nov-bar-------*/
+    .container-fluid {
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .header-top {
+        background: linear-gradient(90deg, #812868 0%, #f954a4 100%);
+        color: #fff;
+        padding: 8px 0;
+    }
+
+    .row {
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+
+    .header-top p,
+    .header-top ul {
+        margin-bottom: 0;
+        color: #fff;
+    }
+
+    .top-mail {
+        display: block;
+    }
+
+    .top-mail a,
+    .top-mail a:hover {
+        color: #fff;
+    }
+
+
+    .top-mail a,
+    .top-mail a:hover {
+        color: #fff;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .top-mail a,
+    .top-mail a:hover {
+        color: #fff;
+    }
+
+    a {
+        background-color: transparent;
+    }
+
+    .top-mail i {
+        margin-right: 10px;
+    }
+
+    .fas {
+        font-weight: 900;
+    }
+
+    .fas {
+        font-family: "Font Awesome 5 Free";
+    }
+
+    .fas {
+        -webkit-font-smoothing: antialiased;
+        display: inline-block;
+        font-style: normal;
+        font-variant: normal;
+        text-rendering: auto;
+        line-height: 1;
+    }
+
+    /* //------End-----nov-bar------- */
+
+    /* //-----------footer------- */
+    .List li {
+        color: black;
+    }
+
+    .List li a {
+        text-decoration: none;
+    }
+
+    .icoimg {
+        height: 60px;
+        width: 140px;
+    }
+
+    footer {
+        background: url('./img/footer-backgroung.jpeg')no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .Text {
+        float: right;
+    }
+
+    .nfothed {
+        font-family: 'Spartan', sans-serif !important;
+        font-size: 14px;
+    }
+
+    .f_back {
+        color: black;
+    }
+
+    .f_w {
+        font-size: 16px;
+        color: #000;
+        margin-bottom: 1rem;
+        text-transform: capitalize;
+        font-weight: 600;
+    }
+
+    /* //------start-----paragraph-------- */
+
+    .btn {
+        display: inline-block;
+        margin-bottom: 0;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        -ms-touch-action: manipulation;
+        touch-action: manipulation;
+        cursor: pointer;
+        background-image: none;
+        border: 1px solid transparent;
+        padding: 6px 12px;
+        font-size: 14px;
+        line-height: 1.42857143;
+        border-radius: 4px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+
+    .btn-outline,
+    .btn-outline:hover,
+    .btn-outline:focus {
+        background: linear-gradient(90deg, rgba(177, 30, 111, 1) 0%, rgba(74, 14, 192, 1) 100%) !important;
+        border: 2px solid #fff !important;
+        margin-top: 1rem;
+        font-size: 15px !important;
+        padding: 10px 20px !important;
+        border-radius: 30px !important;
+        color: #fff !important;
+    }
+
+    #welcome-container {
+        position: relative;
+        width: 100%;
+        height: auto;
+        padding: 50px 0 75px;
+    }
+
+    #welcome-container .container {
+        text-align: center;
+        margin-top: 22px;
+    }
+
+    #welcome-container #heading {
+        display: inline-block;
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+
+    .h_para2 {
+        font-size: 17px;
+        line-height: 23px;
+        font-weight: normal;
+    }
+
+    #welcome-container p {
+        text-align: center;
+    }
+
+    .h_para {
+        font-size: 36px;
+        margin-bottom: 10px;
+        text-align-last: center;
+    }
+
+    strong {
+        font-weight: 700;
+    }
+
+    /* //------end-----paragraph-------- */
+    /* //------start-----Online Classes-------- */
+    .downapp {
+        background: linear-gradient(100deg, rgba(0, 0, 0, 1), rgba(35, 31, 32, 0.6)), url('./img/Online-Classes-background.jpg') no-repeat center;
+        background-size: cover;
+        background-attachment: fixed;
+        padding: 90px 15px;
+        color: #fff;
+    }
+
+    .container1 {
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .embed-responsive-16by9 {
+        border: 20px solid #fff;
+        position: relative;
+        display: block;
+        height: 0;
+        padding: 0;
+        overflow: hidden;
+        padding-bottom: 56.25%;
+    }
+
+    .embed-responsive-item {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+
+    .btn {
+        display: inline-block;
+        margin-bottom: 0;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        -ms-touch-action: manipulation;
+        touch-action: manipulation;
+        cursor: pointer;
+        background-image: none;
+        border: 1px solid transparent;
+        padding: 6px 12px;
+        font-size: 14px;
+        line-height: 1.42857143;
+        border-radius: 4px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        margin-bottom: 50px;
+    }
+
+    .btn-outline {
+        background: linear-gradient(90deg, rgba(177, 30, 111, 1) 0%, rgba(74, 14, 192, 1) 100%) !important;
+        border: 2px solid #fff !important;
+        margin-top: 1rem;
+        font-size: 15px !important;
+        padding: 10px 20px !important;
+        border-radius: 30px !important;
+        color: #fff !important;
+    }
+
+    .nfothed {
+        font-size: 16px;
+        margin-bottom: 1rem;
+        text-transform: capitalize;
+        font-weight: 600;
+    }
+
+    .list-inline {
+        padding-left: 0;
+        list-style: none;
+        margin-left: -5px;
+    }
+
+    li {
+        list-style: none;
+    }
+
+    .img-responsive {
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .nappimg img {
+        width: 150px;
+    }
+
+
+    .downapp2 {
+        background: linear-gradient(100deg, rgba(0, 0, 0, 1), rgba(35, 31, 32, 0.6)), url('./img/Student\'s-Testimonial-background.jpg') no-repeat center;
+        background-size: cover;
+        background-attachment: fixed;
+        padding: 90px 15px;
+        color: #fff;
+    }
+
+    /* //------End-----Online Classes-------- */
+    .container-nav {
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        position: relative;
+        display: block;
+        max-width: 1170px;
+        height: auto;
+        margin: auto;
+        display: flex;
+        /* overflow: hidden; */
+
+    }
+
+
+    @media only screen and (min-width: 769px) and (max-width: 4000px) {
+        .responsive {
+            display: none;
+        }
+
+    }
+
+    @media only screen and (max-width: 769px) {
+        .nav-menu {
+            display: none;
+        }
+
+    }
+
+    .responsive {
+        margin: 15px 0 30px !important;
+    }
+
+    .responsive ul li {
+        list-style: none;
+        margin-bottom: 10px;
+    }
+
+    @media only screen and (min-width: 769px) and (max-width: 4000px) {
+        .responsive-menu {
+            display: none;
+        }
+
+    }
+
+    #top-container #menu {
+        color: #000;
+        position: relative;
+        display: inline-block;
+        margin: 20px 0 0;
+        text-align: right;
+    }
+
+    #top-container #menu .button-menu {
+        display: block;
+        width: auto;
+        height: auto;
+    }
+
+    #nav {
+        font-size: 14px;
+        height: 36px;
+        width: auto;
+        text-align: left;
+        display: flex;
+        align-items: center;
+        height: 65px;
+        font-size: 18px;
+        z-index: 999;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    #nav li {
+        padding: 8px;
+    }
+
+    #nav li a {
+        color: black;
+        padding: 0;
+    }
+
+    #nav li a:hover {
+        border-top: 1px solid #812868;
+        border-bottom: 1px solid #812868;
+        color:linear-gradient(90deg, #812868 0%, #f954a4 100%);
+        padding: 2px 0;
+    }
+
+    /*......drop...*/
+    .dropbtn {
+        float: left;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        margin-top: 5px;
+        background-color: #ddd;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 999;
+        width: 250px;
+        padding: 0;
+    }
+
+    .dropdown-content li a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        border: none !important
+    }
+
+    .dropdown-content li a:hover {
+        background-color: #812868;
+        color: white !important;
+    }
+
+    .dropbtn:hover .dropdown-content {
+        display: block;
+    }
+
+
+    /*......end*/
+    .nfot-soclist li:nth-child(2) a {
+        color: #1da1f2;
+    }
+
+    .nfot-soclist li:nth-child(3) a {
+        color: #E1306C;
+    }
+
+    .nfot-soclist li:nth-child(4) a {
+        color: #ff0000;
+    }
+
+    .nfotcont li a {
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+
+    .nfot-soclist li:nth-child(1) a {
+        color: #3b5998;
+    }
+
+    .stu_img {
+        border-radius: 1vmin;
+
+    }
+
+    /* //------start-----Student's Testimonial-------- */
+    .embed-responsiv-vd {
+        border: 5px solid #fff;
+        position: relative;
+        display: block;
+        height: 0;
+        padding: 0;
+        overflow: hidden;
+        padding-bottom: 56.25%;
+    }
+
+    .card:hover {
+        transition: 0.4s;
+        transform: translateY(-6px);
+        box-shadow: 0 25px 60px 0 rgba(0, 0, 0, 0.2)
+    }
+
+    /* //------End-----Student's Testimonial-------- */
+    .galul img {
+        height: 250px;
+        width: 100%;
+    }
+    .card-body {
+        flex: 1 1 auto;
+        padding: 0 !important;
+        text-align: center;
+       
+    }
+    /* //------Start-----whatsapp-logo-------- */
+    .whatsapp a{
+        color: #fff;
+    position: fixed;
+    bottom: 20%;
+    right: 20px;
+    background: #3fbb50;
+    font-size: 40px;
+    border-radius: 30px;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 8px 16px 0 rgb(6 1 0 / 50%);
+}
+#carouselExampleInterval{
+    z-index: 1;
+}
+    /* //------End----whatsapp-logo-------- */
+.nfotcont li {
+        background: transparent;
+        border: none;
+        padding: 3px 0;
+        font-size: 14px;
+        line-height: 1.42857143;
+}
+    
+.nfot-soclist li:nth-child(1) a {
+    color: #3b5998;
+}
+.nfot-soclist li a {
+    border-radius: 50%;
+    background: #fff;
+    padding: 0;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    box-shadow: 0 5px 50px 0 rgba(0, 0, 0, 0.2);
+    font-size: 15px;
+    margin-right: 10px;
+}
+.nfot-soclist li a i {
+    line-height: 25px;
+}
+.card-img-bg{
+    background: url('./img/Students-Work-background.png') no-repeat center;
+    background-size: cover;
+    position: relative;
+}
+.card{
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 10%);
+    background: #fff;
+    border: none;
+}
